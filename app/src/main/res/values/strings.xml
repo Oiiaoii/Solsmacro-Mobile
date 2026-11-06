@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sol Macro</string>
+    <string name="svc_desc">Performs the screen taps you set up (fishing and selling) while Roblox is open, and shows the floating START and SET buttons. It does not read your screen content or send any data.</string>
+</resources>
